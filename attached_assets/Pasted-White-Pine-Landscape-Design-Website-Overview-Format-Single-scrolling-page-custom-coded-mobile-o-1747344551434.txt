@@ -1,0 +1,71 @@
+White Pine Landscape Design – Website Overview
+Format:
+Single scrolling page, custom-coded, mobile-optimized.
+Visual Style:
+    • Logo: Wireframe-style logo with trees and mountain silhouette
+    • Color Palette: Neutral, organic earthtones — green, brown, white, black
+    • Design Tone: Clean, quiet, professional — prioritizing clarity and craftsmanship over trend or fluff
+
+Page Sections:
+Top nav bar: contains logo and brand on left. on the right, a phone icon and phone number
+1. Hero Section
+    • Visual: Background image of a clean, well-maintained landscape with mountains or pine trees — natural and inviting.
+    • Text:
+        ◦ Business name and tagline (optional)
+        ◦ CTA: “Request a call today.”
+
+2. About Section
+    • Content:
+      White Pine Landscape Design provides straightforward, high-quality landscape design, lawn care, hardscaping, and seasonal cleanup services in Sandpoint, Idaho. We believe good work speaks for itself.
+    • Visual: Optional small image or background texture (e.g., soil, pine needles, or stone)
+
+3. Services Section
+    • List Format:
+        ◦ Landscape Design
+        ◦ Hardscaping
+        ◦ Lawn Care & Maintenance
+        ◦ Cleanup (Spring/Fall)
+    • Tone: Minimal descriptions under each — direct and clear
+    • Visual: Icon or image next to each (e.g., stone wall for hardscaping, green lawn for maintenance)
+
+4. Portfolio Section
+    • Layout: 3–6 thumbnail images in a clean grid (masonry or square)
+    • Image Guidance:
+        ◦ Before/after shots
+        ◦ Stonework details
+        ◦ Lawn stripes or trimmed edges
+        ◦ Native plant beds
+        ◦ Finished backyard or garden zones
+    • Optional: Lightbox or hover-zoom effect
+
+5. Testimonials Section
+    • Style: Simple boxed quotes 
+    • Examples:
+      “They showed up on time, did clean work, and the yard has never looked better.”
+“White Pine made our space usable again — can’t recommend them enough.”
+
+6. Contact Section
+    • Fields:
+        ◦ Name
+        ◦ Email
+        ◦ Phone (optional)
+        ◦ Message
+        ◦ 
+
+7. Bottom
+2x4 grid of photos
+CTA: Request call today
+
+8. Footer
+Company name and mountain/tree logo
+contact info
+
+
+Other Notes:
+    • Fast load time and clean HTML/CSS encouraged
+    • Minimal animations (fade-ins, scroll reveals) may be used subtly
+    • colors should be dark over lights, easy to read and navigate. Simple bold fonts. 
+    • generate a site favicon
+    • Font: Neutral serif or a clean sans-serif, keeping the tone modern but understated
+    • Footer includes copyright, social links, and possibly a line like:
+      “Built for simplicity. Focused on quality.”
