@@ -65,7 +65,6 @@ export default function Home() {
       <TestimonialsSection />
       <PhotoGrid />
       <CTASection />
-      <ContactSection />
       <Footer />
       <Lightbox 
         isOpen={isLightboxOpen} 
